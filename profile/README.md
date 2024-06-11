@@ -1,7 +1,6 @@
-# NightOase
-
-## What is NightOase?
-NightOase once was a Minecraft Server Project. Nowadays its a learning project. 
+# TiredMC
+## What is TiredMC?
+TiredMC is a minecraft-server project, to learn coding!
 
 ## Team
 - [@tiredmary](https://github.com/tiredmary) - Administrator
